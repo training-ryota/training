@@ -1,2 +1,2 @@
-# training
+# training-ryota
 トレーニング用
